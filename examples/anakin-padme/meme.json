@@ -1,0 +1,8 @@
+{
+  "template": "anakin-padme",
+  "panels": [
+    "We added a retry",
+    "With a backoff, right?",
+    "With a backoff, right?"
+  ]
+}

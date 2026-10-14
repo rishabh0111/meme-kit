@@ -1,0 +1,9 @@
+{
+  "template": "expanding-brain",
+  "panels": [
+    "It works on my machine",
+    "It works in CI",
+    "It survives five chaos experiments",
+    "It survived real AWS, for $3.32"
+  ]
+}

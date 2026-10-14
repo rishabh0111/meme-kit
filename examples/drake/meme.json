@@ -1,0 +1,7 @@
+{
+  "template": "drake",
+  "panels": [
+    "CAP: pick two of the three",
+    "During a partition: pick consistency or availability"
+  ]
+}

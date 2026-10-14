@@ -1,0 +1,8 @@
+{
+  "template": "spiderman-triple",
+  "panels": [
+    "Dev",
+    "Staging",
+    "Prod"
+  ]
+}

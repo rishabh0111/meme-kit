@@ -1,0 +1,8 @@
+{
+  "template": "two-buttons",
+  "panels": [
+    "Make the user wait for the email",
+    "Put the email on a queue",
+    "Every checkout endpoint, ever"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "meme-kit",
+  "version": "1.0.0",
+  "description": "Classic meme templates with your text, rendered from a JSON spec: auto-fitted type, one size across panels, JPEG out.",
+  "main": "render-meme.js",
+  "scripts": {
+    "fetch": "node fetch-templates.js",
+    "build": "./build-memes.sh",
+    "examples": "./build-memes.sh --examples"
+  },
+  "keywords": [
+    "meme",
+    "blog",
+    "image",
+    "puppeteer",
+    "json"
+  ],
+  "author": "Rishabh Sharma",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rishabh0111/meme-kit.git"
+  },
+  "dependencies": {
+    "puppeteer": "^25.10.0"
+  }
+}

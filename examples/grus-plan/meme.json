@@ -1,0 +1,9 @@
+{
+  "template": "grus-plan",
+  "panels": [
+    "Compare REST and gRPC",
+    "Benchmark both",
+    "Ship the faster one",
+    "Never asked who calls it"
+  ]
+}

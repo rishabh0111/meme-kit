@@ -1,0 +1,8 @@
+{
+  "template": "panik-kalm-panik",
+  "panels": [
+    "Cache miss",
+    "Cache hit",
+    "The row changed five minutes ago"
+  ]
+}

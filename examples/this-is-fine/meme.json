@@ -1,0 +1,7 @@
+{
+  "template": "this-is-fine",
+  "panels": [
+    "p99 at 4 seconds",
+    "The dashboard is still green"
+  ]
+}

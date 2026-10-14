@@ -1,0 +1,353 @@
+{
+  "always-has-been": {
+    "name": "Always Has Been",
+    "source": "https://i.imgflip.com/46e43q.png",
+    "sha256": "b1bb9ad7c5fe8b45f9587a07a4ac0ca35026002f1e22eab1722a490b0924afe0",
+    "file": "always-has-been.png",
+    "w": 960,
+    "h": 540,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.04,
+        "y": 0.06,
+        "w": 0.44,
+        "h": 0.22
+      },
+      {
+        "x": 0.5,
+        "y": 0.62,
+        "w": 0.46,
+        "h": 0.24
+      }
+    ]
+  },
+  "anakin-padme": {
+    "name": "Anakin Padme 4 Panel",
+    "source": "https://i.imgflip.com/5c7lwq.png",
+    "sha256": "e00a512457899c0c6d8ef6d72069596d06c8300248947b6414058acab2f9a630",
+    "file": "anakin-padme.png",
+    "w": 768,
+    "h": 768,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.33,
+        "w": 0.46,
+        "h": 0.15
+      },
+      {
+        "x": 0.52,
+        "y": 0.33,
+        "w": 0.46,
+        "h": 0.15
+      },
+      {
+        "x": 0.52,
+        "y": 0.83,
+        "w": 0.46,
+        "h": 0.15
+      }
+    ]
+  },
+  "change-my-mind": {
+    "name": "Change My Mind",
+    "source": "https://i.imgflip.com/24y43o.jpg",
+    "sha256": "057bf87c6c099f273c0391b1b14c02829e36d56d4fc077b261ff7e04b251327c",
+    "file": "change-my-mind.jpg",
+    "w": 482,
+    "h": 361,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.455,
+        "y": 0.6,
+        "w": 0.385,
+        "h": 0.17,
+        "rot": -3
+      }
+    ]
+  },
+  "drake": {
+    "name": "Drake Hotline Bling",
+    "source": "https://i.imgflip.com/30b1gx.jpg",
+    "sha256": "09dd77b5bc0a2d3ac717bb3b309bdbd5ad584e19be2843b0dc714a1e387d7926",
+    "file": "drake.jpg",
+    "w": 1200,
+    "h": 1200,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.5,
+        "y": 0.04,
+        "w": 0.46,
+        "h": 0.4
+      },
+      {
+        "x": 0.5,
+        "y": 0.54,
+        "w": 0.46,
+        "h": 0.4
+      }
+    ]
+  },
+  "expanding-brain": {
+    "name": "Expanding Brain",
+    "source": "https://i.imgflip.com/1jwhww.jpg",
+    "sha256": "a6c69ad43f409fd250db1072edf8d2e51f7c9b1290f286da9fa4f6654000a8c2",
+    "file": "expanding-brain.jpg",
+    "w": 857,
+    "h": 1202,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.01,
+        "w": 0.5,
+        "h": 0.23
+      },
+      {
+        "x": 0.02,
+        "y": 0.26,
+        "w": 0.5,
+        "h": 0.23
+      },
+      {
+        "x": 0.02,
+        "y": 0.51,
+        "w": 0.5,
+        "h": 0.23
+      },
+      {
+        "x": 0.02,
+        "y": 0.76,
+        "w": 0.5,
+        "h": 0.23
+      }
+    ]
+  },
+  "grus-plan": {
+    "name": "Gru's Plan",
+    "source": "https://i.imgflip.com/26jxvz.jpg",
+    "sha256": "3af337f3ec5d4e5bcc69df4e038922a5c158bf40f4ced615d67360db423aa653",
+    "file": "grus-plan.jpg",
+    "w": 700,
+    "h": 449,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.305,
+        "y": 0.09,
+        "w": 0.165,
+        "h": 0.3
+      },
+      {
+        "x": 0.805,
+        "y": 0.09,
+        "w": 0.165,
+        "h": 0.3
+      },
+      {
+        "x": 0.305,
+        "y": 0.58,
+        "w": 0.165,
+        "h": 0.3
+      },
+      {
+        "x": 0.805,
+        "y": 0.58,
+        "w": 0.165,
+        "h": 0.3
+      }
+    ]
+  },
+  "is-this-a-pigeon": {
+    "name": "Is This A Pigeon",
+    "source": "https://i.imgflip.com/1o00in.jpg",
+    "sha256": "30a50b473a83a9cf0277bd9660a07d86f4d6477fd49e83f96b3e63e46e371242",
+    "file": "is-this-a-pigeon.jpg",
+    "w": 1587,
+    "h": 1425,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.52,
+        "w": 0.38,
+        "h": 0.11
+      },
+      {
+        "x": 0.52,
+        "y": 0.1,
+        "w": 0.36,
+        "h": 0.1
+      },
+      {
+        "x": 0.05,
+        "y": 0.86,
+        "w": 0.9,
+        "h": 0.11
+      }
+    ]
+  },
+  "panik-kalm-panik": {
+    "name": "Panik Kalm Panik",
+    "source": "https://i.imgflip.com/3qqcim.png",
+    "sha256": "4d186215716a180eedde0dc1a8c8be2edc6b6a229b4316a125bdb0b0324df426",
+    "file": "panik-kalm-panik.png",
+    "w": 640,
+    "h": 881,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.62,
+        "h": 0.13
+      },
+      {
+        "x": 0.03,
+        "y": 0.35,
+        "w": 0.62,
+        "h": 0.13
+      },
+      {
+        "x": 0.03,
+        "y": 0.68,
+        "w": 0.62,
+        "h": 0.13
+      }
+    ]
+  },
+  "spiderman-pointing": {
+    "name": "spiderman pointing at spiderman",
+    "source": "https://i.imgflip.com/1tkjq9.jpg",
+    "sha256": "019687c3f66fb42755d1247b8405421cfa372cfb819868021c8381f8dde26c49",
+    "file": "spiderman-pointing.jpg",
+    "w": 800,
+    "h": 450,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.62,
+        "w": 0.44,
+        "h": 0.34
+      },
+      {
+        "x": 0.54,
+        "y": 0.62,
+        "w": 0.44,
+        "h": 0.34
+      }
+    ]
+  },
+  "spiderman-triple": {
+    "name": "Spider Man Triple",
+    "source": "https://i.imgflip.com/3eqjd8.jpg",
+    "sha256": "2ad88acfb6864e7f8b22bf07bd0c6c080d3cd2e39bc82e09b0fbe62572f813b9",
+    "file": "spiderman-triple.jpg",
+    "w": 600,
+    "h": 551,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.78,
+        "w": 0.31,
+        "h": 0.18
+      },
+      {
+        "x": 0.35,
+        "y": 0.78,
+        "w": 0.3,
+        "h": 0.18
+      },
+      {
+        "x": 0.68,
+        "y": 0.78,
+        "w": 0.3,
+        "h": 0.18
+      }
+    ]
+  },
+  "this-is-fine": {
+    "name": "This Is Fine",
+    "source": "https://i.imgflip.com/wxica.jpg",
+    "sha256": "35b6aab01999cd2249178d006cb31a7b2aca278c7e3dc3c424851f8e4e9b9f8b",
+    "file": "this-is-fine.jpg",
+    "w": 580,
+    "h": 282,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.03,
+        "w": 0.5,
+        "h": 0.22
+      },
+      {
+        "x": 0.02,
+        "y": 0.74,
+        "w": 0.96,
+        "h": 0.23
+      }
+    ]
+  },
+  "trade-offer": {
+    "name": "Trade Offer",
+    "source": "https://i.imgflip.com/54hjww.jpg",
+    "sha256": "c486623e016856209e5c2e63a89781051f4b8344f414e103c19729ff7b078a6d",
+    "file": "trade-offer.jpg",
+    "w": 607,
+    "h": 794,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.04,
+        "y": 0.205,
+        "w": 0.42,
+        "h": 0.27
+      },
+      {
+        "x": 0.54,
+        "y": 0.205,
+        "w": 0.42,
+        "h": 0.27
+      }
+    ]
+  },
+  "two-buttons": {
+    "name": "Two Buttons",
+    "source": "https://i.imgflip.com/1g8my4.jpg",
+    "sha256": "08687760b78d7ae87731865c631ddf414c6a0b0fe349e54947290ecc7fd19e07",
+    "file": "two-buttons.jpg",
+    "w": 600,
+    "h": 908,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.09,
+        "y": 0.09,
+        "w": 0.34,
+        "h": 0.115,
+        "rot": -3
+      },
+      {
+        "x": 0.47,
+        "y": 0.055,
+        "w": 0.36,
+        "h": 0.115,
+        "rot": -3
+      },
+      {
+        "x": 0.04,
+        "y": 0.86,
+        "w": 0.92,
+        "h": 0.12,
+        "style": "impact"
+      }
+    ]
+  }
+}

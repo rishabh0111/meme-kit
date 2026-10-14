@@ -1,0 +1,8 @@
+{
+  "template": "is-this-a-pigeon",
+  "panels": [
+    "Junior me",
+    "auto-increment id",
+    "Is this globally unique?"
+  ]
+}

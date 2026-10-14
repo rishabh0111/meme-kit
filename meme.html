@@ -1,0 +1,88 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>meme</title>
+<style>
+  @font-face{font-family:"Anton";src:url("fonts/Anton-Regular.ttf") format("truetype");}
+  @font-face{font-family:"Atkinson Hyperlegible";font-weight:700;
+    src:url("fonts/AtkinsonHyperlegible-Bold.ttf") format("truetype");}
+  html,body{margin:0;padding:0;background:#fff;}
+  #stage{position:relative;overflow:hidden;}
+  #stage img{display:block;width:100%;height:100%;}
+  .box{position:absolute;display:flex;align-items:center;justify-content:center;
+       text-align:center;line-height:1.06;overflow:hidden;}
+  .box span{display:block;width:100%;hyphens:none;overflow-wrap:normal;}
+  /* classic overlay: Impact-alike, white with a hard black outline */
+  .impact span{font-family:"Anton",Impact,sans-serif;color:#fff;
+    text-transform:uppercase;letter-spacing:.4px;
+    paint-order:stroke fill;-webkit-text-stroke:0.11em #000;
+    text-shadow:0 2px 5px rgba(0,0,0,.45);}
+  /* for templates with blank space: dark text, no outline */
+  .dark span{font-family:"Atkinson Hyperlegible",Helvetica,sans-serif;
+    font-weight:700;color:#141821;}
+</style>
+<body>
+<div id="stage"><img id="bg"></div>
+<script>
+/* The renderer injects window.SPEC (the meme.json) and window.LAYOUT (its
+   entry in templates.json), then waits for window.__ready. A template image
+   that fails to load sets window.__error instead.                        */
+const S=window.SPEC, L=window.LAYOUT;
+const stage=document.getElementById("stage"), bg=document.getElementById("bg");
+const SC=S.scale||1, W=Math.round(L.w*SC), H=Math.round(L.h*SC);
+stage.style.width=W+"px"; stage.style.height=H+"px";
+document.body.style.width=W+"px";
+bg.src="templates/"+L.file;
+
+const texts=S.panels||[];
+const imgReady=new Promise((res,rej)=>{bg.onload=res; bg.onerror=()=>rej(new Error("cannot load templates/"+L.file));});
+
+/* measure only once BOTH the template image and the webfonts are in:
+   measuring against fallback metrics gives sizes that reflow and overflow */
+/* fonts only begin loading when first used, so fonts.ready can resolve
+   before they exist - force the load, then wait */
+const fontsIn=Promise.all([
+  document.fonts.load('700 100px "Atkinson Hyperlegible"'),
+  document.fonts.load('400 100px "Anton"')
+]).then(()=>document.fonts.ready);
+Promise.all([imgReady, fontsIn]).then(()=>{
+  const made=[];
+  L.boxes.forEach((b,i)=>{
+    const t=texts[i]; if(t===undefined||t===null||t==="") return;
+    const d=document.createElement("div");
+    d.className="box "+(b.style||L.style||"impact");
+    d.style.left=(b.x*W)+"px";  d.style.top=(b.y*H)+"px";
+    d.style.width=(b.w*W)+"px"; d.style.height=(b.h*H)+"px";
+    if(b.rot) d.style.transform=`rotate(${b.rot}deg)`;
+    const sp=document.createElement("span"); sp.textContent=t; d.appendChild(sp);
+    stage.appendChild(d);
+    /* shrink until the text fits its box in both axes */
+    let lo=8, hi=Math.round(b.h*H*0.95), best=lo;
+    while(lo<=hi){
+      const mid=(lo+hi)>>1; sp.style.fontSize=mid+"px";
+      if(sp.scrollHeight<=d.clientHeight-2 && sp.scrollWidth<=d.clientWidth){
+        best=mid; lo=mid+1;
+      } else hi=mid-1;
+    }
+    sp.style.fontSize=best+"px";
+    made.push({d,sp,best});
+  });
+  /* one type size across every panel, as a hand-made meme would have,
+     then verify every box still fits and step down until they all do */
+  if(S.uniform!==false && made.length>1){
+    let u=Math.min(...made.map(m=>m.best));
+    const fits=()=>made.every(({d,sp})=>
+      sp.scrollHeight<=d.clientHeight-2 && sp.scrollWidth<=d.clientWidth);
+    while(u>8){
+      made.forEach(m=>{m.sp.style.fontSize=u+"px";});
+      if(fits()) break;
+      u--;
+    }
+    made.forEach(m=>{m.sp.style.fontSize=u+"px"; m.best=u;});
+  }
+  made.forEach(({d,sp,best})=>{
+    if(d.className.includes("impact"))
+      sp.style.webkitTextStroke=Math.max(2,best*0.085)+"px #000";
+  });
+  window.__ready=true;
+}).catch(e=>{ window.__error=e.message; });
+</script>

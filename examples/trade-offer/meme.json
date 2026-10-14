@@ -1,0 +1,7 @@
+{
+  "template": "trade-offer",
+  "panels": [
+    "Schema flexibility",
+    "Joins, in your application code"
+  ]
+}
