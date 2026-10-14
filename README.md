@@ -1,13 +1,13 @@
 # meme-kit
 
-Classic meme templates with your text on them, rendered from a JSON spec.
+Meme templates with your text on them, rendered from a JSON spec.
 
 Write a `meme.json` naming a template and the text for each panel. You get a
 JPEG back, with the type fitted to every box and kept the same size across
 panels, the way a hand-made meme looks. Built for the image near the top of a
 technical blog post, but the output is a plain JPEG, so it works anywhere.
 
-![All 51 templates, rendered from the specs in examples/](docs/examples.jpg)
+![Every bundled template, rendered from the specs in examples/](docs/examples.jpg)
 
 ## Why
 

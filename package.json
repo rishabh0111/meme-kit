@@ -1,7 +1,7 @@
 {
   "name": "meme-kit",
   "version": "1.0.0",
-  "description": "Classic meme templates with your text, rendered from a JSON spec: auto-fitted type, one size across panels, JPEG out.",
+  "description": "Meme templates with your text, rendered from a JSON spec: auto-fitted type, one size across panels, JPEG out.",
   "main": "render-meme.js",
   "scripts": {
     "fetch": "node fetch-templates.js",
