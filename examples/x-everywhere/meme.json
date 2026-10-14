@@ -1,0 +1,7 @@
+{
+  "template": "x-everywhere",
+  "panels": [
+    "Microservices",
+    "Microservices everywhere"
+  ]
+}

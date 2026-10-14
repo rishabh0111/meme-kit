@@ -1,0 +1,8 @@
+{
+  "template": "epic-handshake",
+  "panels": [
+    "Backend devs",
+    "Frontend devs",
+    "Blaming the cache"
+  ]
+}

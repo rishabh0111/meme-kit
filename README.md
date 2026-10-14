@@ -7,7 +7,7 @@ JPEG back, with the type fitted to every box and kept the same size across
 panels, the way a hand-made meme looks. Built for the image near the top of a
 technical blog post, but the output is a plain JPEG, so it works anywhere.
 
-![All thirteen templates, rendered from the specs in examples/](docs/examples.jpg)
+![All 51 templates, rendered from the specs in examples/](docs/examples.jpg)
 
 ## Why
 
@@ -71,7 +71,7 @@ node render-meme.js meme.json out.png     one spec to any path, PNG or JPEG
 ```
 
 Output is rendered at 1.5× the template's size and saved as JPEG at quality 86:
-roughly 90–350 KB, which a blog post can carry.
+roughly 50–500 KB, which a blog post can carry.
 
 ## Writing a meme
 
@@ -90,21 +90,72 @@ but it makes every panel small, because they all share one size.
 
 ## Templates
 
-| Template | Panels, in order | Text style |
-|---|---|---|
-| `always-has-been` | the realisation (left astronaut); "always has been" (right) | impact |
-| `anakin-padme` | Anakin's line; Padmé's hopeful reply; Padmé's reply again, now worried | impact |
-| `change-my-mind` | the opinion on the table sign | dark |
-| `drake` | what he rejects; what he approves | dark |
-| `expanding-brain` | four ideas, from smallest brain to most glowing | impact |
-| `grus-plan` | steps one to four on the board; the last one is the problem | dark |
-| `is-this-a-pigeon` | the person; the butterfly; the question | impact |
-| `panik-kalm-panik` | the panic; the calm; the panic again | impact |
-| `spiderman-pointing` | left Spider-Man; right Spider-Man | impact |
-| `spiderman-triple` | left, middle and right Spider-Man | impact |
-| `this-is-fine` | the situation (top left); a caption along the bottom | impact |
-| `trade-offer` | "i receive"; "you receive" | impact |
-| `two-buttons` | left button; right button; the sweating person | dark |
+51 templates: the Office ones first, then the classics from imgflip's most
+used list.
+
+### The Office, and its neighbours
+
+| Template | Name | Panels, in order | Text style |
+|---|---|---|---|
+| `theyre-the-same-picture` | They're The Same Picture | left card; right card (Pam says they're the same) | dark |
+| `jim-whiteboard` | Jim Halpert Pointing to Whiteboard | the board Jim points at; the board again, Jim looking at the camera | dark |
+| `michael-no-god` | No God! No God Please No! | top; bottom | impact |
+| `declare-bankruptcy` | I Declare Bankruptcy | the situation (top); the declaration (bottom) | impact |
+| `dwight-false` | Dwight Schrute: False | the claim (top); the verdict (bottom) | impact |
+| `why-are-you-the-way` | Why Are You The Way That You Are | the thing Michael asks about (left side) | impact |
+| `everybody-stay-calm` | Everybody Stay Calm | what is happening (white band above) | dark |
+| `that-would-be-great` | That Would Be Great | "Yeah, if you could…" (top); "…that would be great" (bottom) | impact |
+| `too-afraid-to-ask` | Too Afraid To Ask (Andy) | what you don't know (top); "too afraid to ask" (bottom) | impact |
+
+The last two are close cousins: That Would Be Great is Office Space,
+Too Afraid To Ask is Parks and Recreation.
+
+### The classics
+
+| Template | Name | Panels, in order | Text style |
+|---|---|---|---|
+| `always-has-been` | Always Has Been | the realisation (left astronaut); "always has been" (right) | impact |
+| `american-chopper` | American Chopper Argument | five lines of the argument, one per panel | impact |
+| `anakin-padme` | Anakin Padme 4 Panel | Anakin's line; Padmé's hopeful reply; Padmé's reply again, now worried | impact |
+| `ancient-aliens` | Ancient Aliens | the question (top); the answer (bottom) | impact |
+| `batman-slapping-robin` | Batman Slapping Robin | Robin's bubble; Batman's bubble | dark |
+| `bell-curve` | Bell Curve | left tail; the midwit at the peak; right tail | dark |
+| `bernie-asking` | Bernie I Am Once Again Asking | who is asked (top); what for (under his caption) | impact |
+| `boardroom-suggestion` | Boardroom Meeting Suggestion | the boss's question; idea one; idea two; the sensible idea (thrown out the window) | dark |
+| `buff-doge-vs-cheems` | Buff Doge vs. Cheems | left label; left caption; right label; right caption | dark |
+| `change-my-mind` | Change My Mind | the opinion on the table sign | dark |
+| `clown-makeup` | Clown Applying Makeup | four steps, each worse than the last | dark |
+| `disaster-girl` | Disaster Girl | the fire (top); her line (bottom) | impact |
+| `drake` | Drake Hotline Bling | what he rejects; what he approves | dark |
+| `epic-handshake` | Epic Handshake | left arm; right arm; what they agree on (the grip) | impact |
+| `evil-kermit` | Evil Kermit | Kermit; hooded Kermit | impact |
+| `expanding-brain` | Expanding Brain | four ideas, from smallest brain to most glowing | impact |
+| `futurama-fry` | Futurama Fry | "Not sure if…" (top); "…or…" (bottom) | impact |
+| `grus-plan` | Gru's Plan | steps one to four on the board; the last one is the problem | dark |
+| `gus-fring-not-same` | Gus Fring We Are Not The Same | "You…"; "I…"; "We are not the same" | impact |
+| `hide-the-pain-harold` | Hide the Pain Harold | the good news (top); the pain (bottom) | impact |
+| `is-this-a-pigeon` | Is This A Pigeon | the person; the butterfly; the question | impact |
+| `left-exit-12` | Left Exit 12 Off Ramp | straight on; the exit; the car taking it | impact |
+| `leonardo-cheers` | Leonardo Dicaprio Cheers | top; bottom | impact |
+| `mocking-spongebob` | Mocking Spongebob | the quote (top); the same quote, mocked (bottom, case kept) | impact |
+| `monkey-puppet` | Monkey Puppet | the situation (white band above); optional bottom caption | dark |
+| `one-does-not-simply` | One Does Not Simply | "One does not simply" (top); the hard thing (bottom) | impact |
+| `panik-kalm-panik` | Panik Kalm Panik | the panic; the calm; the panic again | impact |
+| `roll-safe` | Roll Safe Think About It | top; bottom | impact |
+| `sad-pablo` | Sad Pablo Escobar | top panel; bottom left; bottom right | impact |
+| `scooby-doo-reveal` | Scooby Doo Mask Reveal | the mask; who it really was | impact |
+| `scroll-of-truth` | The Scroll Of Truth | the truth on the scroll | dark |
+| `spiderman-pointing` | spiderman pointing at spiderman | left Spider-Man; right Spider-Man | impact |
+| `spiderman-triple` | Spider Man Triple | left, middle and right Spider-Man | impact |
+| `surprised-pikachu` | Surprised Pikachu | three lines above: the action, the obvious result, the surprise | dark |
+| `this-is-fine` | This Is Fine | the situation (top left); a caption along the bottom | impact |
+| `trade-offer` | Trade Offer | "i receive"; "you receive" | impact |
+| `tuxedo-pooh` | Tuxedo Winnie The Pooh | the plain way; the classy way | dark |
+| `two-buttons` | Two Buttons | left button; right button; the sweating person | dark |
+| `uno-draw-25` | UNO Draw 25 Cards | the card's demand; the player | dark |
+| `waiting-skeleton` | Waiting Skeleton | top; bottom | impact |
+| `woman-yelling-at-cat` | Woman Yelling At Cat | the woman; the cat | impact |
+| `x-everywhere` | X, X Everywhere | "X" (top); "X everywhere" (bottom) | impact |
 
 `examples/<template>/meme.json` is a working spec for each one.
 
@@ -120,7 +171,8 @@ Two text styles, set per template in `templates.json` (or per box):
 1. Put the image in `templates/`.
 2. Add an entry to `templates.json`: `file`, the image's pixel size `w` and
    `h`, a default `style`, and `boxes`. Each box is `x`, `y`, `w`, `h` as
-   fractions of the image (0–1), with optional `style` and `rot` (degrees).
+   fractions of the image (0–1), with optional `style`, `rot` (degrees) and
+   `keepCase` (stop `impact` uppercasing the text; set on the template or a box).
    Add `source` (a URL) and `sha256` if you want `npm run fetch` to download it
    for other people.
 3. Write a spec in `examples/<template>/meme.json`, build it with

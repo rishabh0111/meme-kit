@@ -1,0 +1,8 @@
+{
+  "template": "sad-pablo",
+  "panels": [
+    "Waiting for CI",
+    "Waiting for review",
+    "Waiting for deploy"
+  ]
+}

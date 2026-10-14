@@ -1,0 +1,8 @@
+{
+  "template": "surprised-pikachu",
+  "panels": [
+    "Skips the migration review",
+    "Migration locks the table",
+    "Prod goes down"
+  ]
+}

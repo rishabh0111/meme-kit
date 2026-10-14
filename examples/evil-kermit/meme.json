@@ -1,0 +1,7 @@
+{
+  "template": "evil-kermit",
+  "panels": [
+    "Write the docs",
+    "The code is the docs, ship it"
+  ]
+}

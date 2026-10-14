@@ -1,0 +1,10 @@
+{
+  "template": "american-chopper",
+  "panels": [
+    "Tabs!",
+    "Spaces!",
+    "Tabs are for indentation!",
+    "Spaces look the same everywhere!",
+    "Just run the formatter!"
+  ]
+}

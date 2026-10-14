@@ -1,0 +1,7 @@
+{
+  "template": "tuxedo-pooh",
+  "panels": [
+    "console.log",
+    "A debugger"
+  ]
+}

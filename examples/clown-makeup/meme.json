@@ -1,0 +1,9 @@
+{
+  "template": "clown-makeup",
+  "panels": [
+    "Skip the tests this once",
+    "It's only a hotfix",
+    "Deploy it on Friday",
+    "Log off for the weekend"
+  ]
+}

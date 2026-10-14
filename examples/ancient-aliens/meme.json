@@ -1,0 +1,7 @@
+{
+  "template": "ancient-aliens",
+  "panels": [
+    "Why did prod go down?",
+    "DNS"
+  ]
+}

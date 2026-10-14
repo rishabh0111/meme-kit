@@ -22,6 +22,47 @@
       }
     ]
   },
+  "american-chopper": {
+    "name": "American Chopper Argument",
+    "source": "https://i.imgflip.com/2896ro.jpg",
+    "sha256": "6e385e7357ab612bee07b8b8b0f7decc5a9a318cf869ba003afe12d18b7beed4",
+    "file": "american-chopper.jpg",
+    "w": 640,
+    "h": 1800,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.12,
+        "w": 0.94,
+        "h": 0.075
+      },
+      {
+        "x": 0.03,
+        "y": 0.32,
+        "w": 0.94,
+        "h": 0.075
+      },
+      {
+        "x": 0.03,
+        "y": 0.52,
+        "w": 0.94,
+        "h": 0.075
+      },
+      {
+        "x": 0.03,
+        "y": 0.72,
+        "w": 0.94,
+        "h": 0.075
+      },
+      {
+        "x": 0.03,
+        "y": 0.92,
+        "w": 0.94,
+        "h": 0.075
+      }
+    ]
+  },
   "anakin-padme": {
     "name": "Anakin Padme 4 Panel",
     "source": "https://i.imgflip.com/5c7lwq.png",
@@ -51,6 +92,174 @@
       }
     ]
   },
+  "ancient-aliens": {
+    "name": "Ancient Aliens",
+    "source": "https://i.imgflip.com/26am.jpg",
+    "sha256": "6ff4588989f3c453223f905135e81fd9ccb19eb69d62478e47f388c464a9164a",
+    "file": "ancient-aliens.jpg",
+    "w": 500,
+    "h": 436,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "batman-slapping-robin": {
+    "name": "Batman Slapping Robin",
+    "source": "https://i.imgflip.com/9ehk.jpg",
+    "sha256": "54ed8ce2950f5f3e7fb8f8dca320396fa4fd3caa82eba05ea840f55ba65cc1a8",
+    "file": "batman-slapping-robin.jpg",
+    "w": 400,
+    "h": 387,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.42,
+        "h": 0.15
+      },
+      {
+        "x": 0.53,
+        "y": 0.02,
+        "w": 0.43,
+        "h": 0.17
+      }
+    ]
+  },
+  "bell-curve": {
+    "name": "Bell Curve",
+    "source": "https://i.imgflip.com/8tw3vb.png",
+    "sha256": "59fbc7f76db0a6cc322d58f7414f9dcee43a719d920e598e7eba8273926bbc7d",
+    "file": "bell-curve.png",
+    "w": 675,
+    "h": 499,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.01,
+        "y": 0.3,
+        "w": 0.3,
+        "h": 0.2
+      },
+      {
+        "x": 0.15,
+        "y": 0.0,
+        "w": 0.7,
+        "h": 0.11
+      },
+      {
+        "x": 0.69,
+        "y": 0.3,
+        "w": 0.3,
+        "h": 0.2
+      }
+    ]
+  },
+  "bernie-asking": {
+    "name": "Bernie I Am Once Again Asking",
+    "source": "https://i.imgflip.com/3oevdk.jpg",
+    "sha256": "6405297936a1f74c8b425de5963bdc7849dd72d7b1e93ef4bd4eb854f879bf6c",
+    "file": "bernie-asking.jpg",
+    "w": 750,
+    "h": 750,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.03,
+        "w": 0.68,
+        "h": 0.2
+      },
+      {
+        "x": 0.08,
+        "y": 0.875,
+        "w": 0.84,
+        "h": 0.11
+      }
+    ]
+  },
+  "boardroom-suggestion": {
+    "name": "Boardroom Meeting Suggestion",
+    "source": "https://i.imgflip.com/m78d.jpg",
+    "sha256": "84762bf3e2170e9d1eb8319958523f9d227fb9a88a0625c6f09d5928bf3afeb8",
+    "file": "boardroom-suggestion.jpg",
+    "w": 500,
+    "h": 649,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.3,
+        "y": 0.01,
+        "w": 0.64,
+        "h": 0.1
+      },
+      {
+        "x": 0.045,
+        "y": 0.385,
+        "w": 0.19,
+        "h": 0.04
+      },
+      {
+        "x": 0.325,
+        "y": 0.39,
+        "w": 0.15,
+        "h": 0.04
+      },
+      {
+        "x": 0.62,
+        "y": 0.392,
+        "w": 0.24,
+        "h": 0.05
+      }
+    ]
+  },
+  "buff-doge-vs-cheems": {
+    "name": "Buff Doge vs. Cheems",
+    "source": "https://i.imgflip.com/43a45p.png",
+    "sha256": "701739f3ef172544146c312de0c3d649ad69f8e30389d24ea562524e1349ac4b",
+    "file": "buff-doge-vs-cheems.png",
+    "w": 937,
+    "h": 720,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.01,
+        "w": 0.46,
+        "h": 0.09
+      },
+      {
+        "x": 0.02,
+        "y": 0.78,
+        "w": 0.46,
+        "h": 0.2
+      },
+      {
+        "x": 0.54,
+        "y": 0.01,
+        "w": 0.44,
+        "h": 0.09
+      },
+      {
+        "x": 0.54,
+        "y": 0.78,
+        "w": 0.44,
+        "h": 0.2
+      }
+    ]
+  },
   "change-my-mind": {
     "name": "Change My Mind",
     "source": "https://i.imgflip.com/24y43o.jpg",
@@ -66,6 +275,87 @@
         "w": 0.385,
         "h": 0.17,
         "rot": -3
+      }
+    ]
+  },
+  "clown-makeup": {
+    "name": "Clown Applying Makeup",
+    "source": "https://i.imgflip.com/38el31.jpg",
+    "sha256": "11969d438f8df4ea8915047cd66f4b8e55b854bcf2d0a36fffc50c528b62020a",
+    "file": "clown-makeup.jpg",
+    "w": 750,
+    "h": 798,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.02,
+        "w": 0.56,
+        "h": 0.21
+      },
+      {
+        "x": 0.02,
+        "y": 0.27,
+        "w": 0.56,
+        "h": 0.21
+      },
+      {
+        "x": 0.02,
+        "y": 0.52,
+        "w": 0.56,
+        "h": 0.21
+      },
+      {
+        "x": 0.02,
+        "y": 0.77,
+        "w": 0.56,
+        "h": 0.21
+      }
+    ]
+  },
+  "declare-bankruptcy": {
+    "name": "I Declare Bankruptcy",
+    "source": "https://i.imgflip.com/qocvi.jpg",
+    "sha256": "42d018dfae42c0442c246de47afec322c0db653e483599632e8d8507ff19a1ce",
+    "file": "declare-bankruptcy.jpg",
+    "w": 448,
+    "h": 251,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "disaster-girl": {
+    "name": "Disaster Girl",
+    "source": "https://i.imgflip.com/23ls.jpg",
+    "sha256": "e49921d81a803159d4720ab9f94a6d025890395bdd9e348bf48e4592599957c4",
+    "file": "disaster-girl.jpg",
+    "w": 500,
+    "h": 375,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
       }
     ]
   },
@@ -89,6 +379,98 @@
         "y": 0.54,
         "w": 0.46,
         "h": 0.4
+      }
+    ]
+  },
+  "dwight-false": {
+    "name": "Dwight Schrute: False",
+    "source": "https://imgflip.com/s/meme/Dwight-Schrute.jpg",
+    "sha256": "b5269aa51f0e274037bcda32719bca501324c3a79bd0b7c2f28a302a6aac8e91",
+    "file": "dwight-false.jpg",
+    "w": 551,
+    "h": 380,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "epic-handshake": {
+    "name": "Epic Handshake",
+    "source": "https://i.imgflip.com/28j0te.jpg",
+    "sha256": "788b16c12e386da7a892bcc22026bfa99d8c1ca3727b0c26897f3f4e54323384",
+    "file": "epic-handshake.jpg",
+    "w": 900,
+    "h": 645,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.56,
+        "w": 0.36,
+        "h": 0.2
+      },
+      {
+        "x": 0.62,
+        "y": 0.6,
+        "w": 0.36,
+        "h": 0.2
+      },
+      {
+        "x": 0.2,
+        "y": 0.02,
+        "w": 0.42,
+        "h": 0.14
+      }
+    ]
+  },
+  "everybody-stay-calm": {
+    "name": "Everybody Stay Calm",
+    "source": "https://i.imgflip.com/3k6ja6.png",
+    "sha256": "2c4878f06a3e79da0c918c0eaa38704631953f75e285888625cc9c7af26c20e4",
+    "file": "everybody-stay-calm.png",
+    "w": 500,
+    "h": 521,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.23
+      }
+    ]
+  },
+  "evil-kermit": {
+    "name": "Evil Kermit",
+    "source": "https://i.imgflip.com/1e7ql7.jpg",
+    "sha256": "2d4e5403d7be0ef4ea43c60c6b2fa210fac0ad28137acd91d439900f0f6340b5",
+    "file": "evil-kermit.jpg",
+    "w": 700,
+    "h": 325,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.75,
+        "w": 0.46,
+        "h": 0.23
+      },
+      {
+        "x": 0.52,
+        "y": 0.75,
+        "w": 0.46,
+        "h": 0.23
       }
     ]
   },
@@ -127,6 +509,29 @@
       }
     ]
   },
+  "futurama-fry": {
+    "name": "Futurama Fry",
+    "source": "https://i.imgflip.com/1bgw.jpg",
+    "sha256": "25aa31a34d4b3c778c07e396c553664c2282f4b232d5f5a6751aa8144bcf28cb",
+    "file": "futurama-fry.jpg",
+    "w": 552,
+    "h": 414,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
   "grus-plan": {
     "name": "Gru's Plan",
     "source": "https://i.imgflip.com/26jxvz.jpg",
@@ -162,6 +567,58 @@
       }
     ]
   },
+  "gus-fring-not-same": {
+    "name": "Gus Fring We Are Not The Same",
+    "source": "https://i.imgflip.com/5o32tt.png",
+    "sha256": "5160f18921ed7e98195512a21fecd9a260c0a754e2f2382c33b8702df49aeeeb",
+    "file": "gus-fring-not-same.png",
+    "w": 700,
+    "h": 1000,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.04,
+        "y": 0.62,
+        "w": 0.92,
+        "h": 0.1
+      },
+      {
+        "x": 0.04,
+        "y": 0.74,
+        "w": 0.92,
+        "h": 0.1
+      },
+      {
+        "x": 0.04,
+        "y": 0.86,
+        "w": 0.92,
+        "h": 0.1
+      }
+    ]
+  },
+  "hide-the-pain-harold": {
+    "name": "Hide the Pain Harold",
+    "source": "https://i.imgflip.com/gk5el.jpg",
+    "sha256": "e94749daeb308b15a9feaa90bd3cbcd8559b2b6dfa30755894d068377c15ef8d",
+    "file": "hide-the-pain-harold.jpg",
+    "w": 480,
+    "h": 601,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.02,
+        "w": 0.55,
+        "h": 0.2
+      },
+      {
+        "x": 0.02,
+        "y": 0.8,
+        "w": 0.96,
+        "h": 0.18
+      }
+    ]
+  },
   "is-this-a-pigeon": {
     "name": "Is This A Pigeon",
     "source": "https://i.imgflip.com/1o00in.jpg",
@@ -191,6 +648,175 @@
       }
     ]
   },
+  "jim-whiteboard": {
+    "name": "Jim Halpert Pointing to Whiteboard",
+    "source": "https://i.imgflip.com/41785b.png",
+    "sha256": "52ff4075896904e6fd2ac36d29c68e2a279481d6f922b73eb84259483b4d48f5",
+    "file": "jim-whiteboard.png",
+    "w": 680,
+    "h": 766,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.04,
+        "y": 0.05,
+        "w": 0.54,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.55,
+        "w": 0.54,
+        "h": 0.36
+      }
+    ]
+  },
+  "left-exit-12": {
+    "name": "Left Exit 12 Off Ramp",
+    "source": "https://i.imgflip.com/22bdq6.jpg",
+    "sha256": "bc131e329034f3ddd91bfbad24d18c194227c083eda40d8c66c17bc66d170816",
+    "file": "left-exit-12.jpg",
+    "w": 804,
+    "h": 767,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.24,
+        "y": 0.12,
+        "w": 0.2,
+        "h": 0.18
+      },
+      {
+        "x": 0.5,
+        "y": 0.12,
+        "w": 0.22,
+        "h": 0.18
+      },
+      {
+        "x": 0.3,
+        "y": 0.62,
+        "w": 0.5,
+        "h": 0.2
+      }
+    ]
+  },
+  "leonardo-cheers": {
+    "name": "Leonardo Dicaprio Cheers",
+    "source": "https://i.imgflip.com/39t1o.jpg",
+    "sha256": "6a86bde07c1e891ba74a0c208892b0d92271e9744151681d39fc24a0efdeb913",
+    "file": "leonardo-cheers.jpg",
+    "w": 600,
+    "h": 400,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "michael-no-god": {
+    "name": "No God! No God Please No!",
+    "source": "https://i.imgflip.com/bmayf.jpg",
+    "sha256": "c78e71dae52b935660ca302429e9f5c9d1ce30438f1b8d17885afb42815fab2b",
+    "file": "michael-no-god.jpg",
+    "w": 480,
+    "h": 360,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "mocking-spongebob": {
+    "name": "Mocking Spongebob",
+    "source": "https://i.imgflip.com/1otk96.jpg",
+    "sha256": "f885daba8a50c65dd2fbb4144560a9b5d876ec70096f0621d9b1c81aef6ea5f7",
+    "file": "mocking-spongebob.jpg",
+    "w": 502,
+    "h": 353,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ],
+    "keepCase": true
+  },
+  "monkey-puppet": {
+    "name": "Monkey Puppet",
+    "source": "https://i.imgflip.com/2gnnjh.jpg",
+    "sha256": "b96b310871d8e75c69d8c8f197bdc56875a34660f93a6e0534b4f51218bd18de",
+    "file": "monkey-puppet.jpg",
+    "w": 923,
+    "h": 768,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.03,
+        "w": 0.94,
+        "h": 0.28
+      },
+      {
+        "x": 0.03,
+        "y": 0.8,
+        "w": 0.94,
+        "h": 0.17,
+        "style": "impact"
+      }
+    ]
+  },
+  "one-does-not-simply": {
+    "name": "One Does Not Simply",
+    "source": "https://i.imgflip.com/1bij.jpg",
+    "sha256": "6004a3ecea712898d010f8c773be5bd74452d77e66f3da3697b69cc4cac82a05",
+    "file": "one-does-not-simply.jpg",
+    "w": 568,
+    "h": 335,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
   "panik-kalm-panik": {
     "name": "Panik Kalm Panik",
     "source": "https://i.imgflip.com/3qqcim.png",
@@ -217,6 +843,98 @@
         "y": 0.68,
         "w": 0.62,
         "h": 0.13
+      }
+    ]
+  },
+  "roll-safe": {
+    "name": "Roll Safe Think About It",
+    "source": "https://i.imgflip.com/1h7in3.jpg",
+    "sha256": "c6b0bcbe4e6476bb87ad2cf0ab42e4786abc42e7809f5edb466b4edd7db689bd",
+    "file": "roll-safe.jpg",
+    "w": 702,
+    "h": 395,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "sad-pablo": {
+    "name": "Sad Pablo Escobar",
+    "source": "https://i.imgflip.com/1c1uej.jpg",
+    "sha256": "c38881f289ed6784de2c5e1064295aa5a58da213a048c657acab06b653fa647c",
+    "file": "sad-pablo.jpg",
+    "w": 720,
+    "h": 709,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.03,
+        "w": 0.94,
+        "h": 0.15
+      },
+      {
+        "x": 0.02,
+        "y": 0.85,
+        "w": 0.46,
+        "h": 0.13
+      },
+      {
+        "x": 0.52,
+        "y": 0.85,
+        "w": 0.46,
+        "h": 0.13
+      }
+    ]
+  },
+  "scooby-doo-reveal": {
+    "name": "Scooby Doo Mask Reveal",
+    "source": "https://i.imgflip.com/2eeunw.jpg",
+    "sha256": "6bcc48287e9803a6a847281fec1fc4561c19e21cafffc58f484a4098b34ec8a7",
+    "file": "scooby-doo-reveal.jpg",
+    "w": 720,
+    "h": 960,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.36,
+        "w": 0.5,
+        "h": 0.12
+      },
+      {
+        "x": 0.02,
+        "y": 0.86,
+        "w": 0.5,
+        "h": 0.12
+      }
+    ]
+  },
+  "scroll-of-truth": {
+    "name": "The Scroll Of Truth",
+    "source": "https://i.imgflip.com/21tqf4.jpg",
+    "sha256": "5097c8c9a6e904ddc1ae8f11e37fdb7710020c08c9e75149a16865ca6fde8582",
+    "file": "scroll-of-truth.jpg",
+    "w": 1280,
+    "h": 1236,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.19,
+        "y": 0.53,
+        "w": 0.19,
+        "h": 0.3
       }
     ]
   },
@@ -272,6 +990,83 @@
       }
     ]
   },
+  "surprised-pikachu": {
+    "name": "Surprised Pikachu",
+    "source": "https://i.imgflip.com/2kbn1e.jpg",
+    "sha256": "4c420b3b1bb093530cb088bb84a2409e8b386648c8422f517eb7fa8462bcad97",
+    "file": "surprised-pikachu.jpg",
+    "w": 1893,
+    "h": 1892,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.11
+      },
+      {
+        "x": 0.03,
+        "y": 0.14,
+        "w": 0.94,
+        "h": 0.11
+      },
+      {
+        "x": 0.03,
+        "y": 0.26,
+        "w": 0.94,
+        "h": 0.11
+      }
+    ]
+  },
+  "that-would-be-great": {
+    "name": "That Would Be Great",
+    "source": "https://imgflip.com/s/meme/That-Would-Be-Great.jpg",
+    "sha256": "67b69a234322a16258a3f285be1bc951bc8083cee08c701e7849942c148af9b2",
+    "file": "that-would-be-great.jpg",
+    "w": 526,
+    "h": 440,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "theyre-the-same-picture": {
+    "name": "They're The Same Picture",
+    "source": "https://i.imgflip.com/2za3u1.jpg",
+    "sha256": "1d5ccb28f4776f54d2e8e2fba6b8bbe6be3e695ae7fa3d91302f639addaa93c9",
+    "file": "theyre-the-same-picture.jpg",
+    "w": 1363,
+    "h": 1524,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.08,
+        "y": 0.08,
+        "w": 0.36,
+        "h": 0.2,
+        "rot": 4
+      },
+      {
+        "x": 0.54,
+        "y": 0.13,
+        "w": 0.36,
+        "h": 0.2,
+        "rot": 4
+      }
+    ]
+  },
   "this-is-fine": {
     "name": "This Is Fine",
     "source": "https://i.imgflip.com/wxica.jpg",
@@ -295,6 +1090,29 @@
       }
     ]
   },
+  "too-afraid-to-ask": {
+    "name": "Too Afraid To Ask (Andy)",
+    "source": "https://imgflip.com/s/meme/Afraid-To-Ask-Andy.jpg",
+    "sha256": "8b497f45ad396faba3e7c1159fda20bc6f6ecc28b3dcebdc7d44d8306afb81d6",
+    "file": "too-afraid-to-ask.jpg",
+    "w": 620,
+    "h": 607,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
   "trade-offer": {
     "name": "Trade Offer",
     "source": "https://i.imgflip.com/54hjww.jpg",
@@ -315,6 +1133,29 @@
         "y": 0.205,
         "w": 0.42,
         "h": 0.27
+      }
+    ]
+  },
+  "tuxedo-pooh": {
+    "name": "Tuxedo Winnie The Pooh",
+    "source": "https://i.imgflip.com/2ybua0.png",
+    "sha256": "a0655ccfc54d94944bb3d62d3dfa45c405575eba0b8213fb67740029cc15f367",
+    "file": "tuxedo-pooh.png",
+    "w": 800,
+    "h": 582,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.46,
+        "y": 0.05,
+        "w": 0.51,
+        "h": 0.4
+      },
+      {
+        "x": 0.46,
+        "y": 0.55,
+        "w": 0.51,
+        "h": 0.4
       }
     ]
   },
@@ -347,6 +1188,116 @@
         "w": 0.92,
         "h": 0.12,
         "style": "impact"
+      }
+    ]
+  },
+  "uno-draw-25": {
+    "name": "UNO Draw 25 Cards",
+    "source": "https://i.imgflip.com/3lmzyx.jpg",
+    "sha256": "8b583f1d6a7566c233fefca12a4fdfd6802ab83b95b320e9a4282fc02c6f95bd",
+    "file": "uno-draw-25.jpg",
+    "w": 500,
+    "h": 494,
+    "style": "dark",
+    "boxes": [
+      {
+        "x": 0.18,
+        "y": 0.3,
+        "w": 0.23,
+        "h": 0.17
+      },
+      {
+        "x": 0.52,
+        "y": 0.04,
+        "w": 0.46,
+        "h": 0.2,
+        "style": "impact"
+      }
+    ]
+  },
+  "waiting-skeleton": {
+    "name": "Waiting Skeleton",
+    "source": "https://i.imgflip.com/2fm6x.jpg",
+    "sha256": "67eb6e0c9b7d4785d364d4a3f4713de7980750fa2b6ba227cc75e7dffb6fd39e",
+    "file": "waiting-skeleton.jpg",
+    "w": 298,
+    "h": 403,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
+      }
+    ]
+  },
+  "why-are-you-the-way": {
+    "name": "Why Are You The Way That You Are",
+    "source": "https://i.imgflip.com/2hnuyn.jpg",
+    "sha256": "a2687b7c2ca5175ba27b2ed53f2343215a63c47ee173cd891df14859e241b788",
+    "file": "why-are-you-the-way.jpg",
+    "w": 480,
+    "h": 270,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.06,
+        "w": 0.42,
+        "h": 0.72
+      }
+    ]
+  },
+  "woman-yelling-at-cat": {
+    "name": "Woman Yelling At Cat",
+    "source": "https://i.imgflip.com/345v97.jpg",
+    "sha256": "715798139c5deb743ab3e3a24f477e4c97fd5184ea43648a3d1fffb7b193ce07",
+    "file": "woman-yelling-at-cat.jpg",
+    "w": 680,
+    "h": 438,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.02,
+        "y": 0.74,
+        "w": 0.5,
+        "h": 0.24
+      },
+      {
+        "x": 0.6,
+        "y": 0.74,
+        "w": 0.38,
+        "h": 0.24
+      }
+    ]
+  },
+  "x-everywhere": {
+    "name": "X, X Everywhere",
+    "source": "https://i.imgflip.com/1ihzfe.jpg",
+    "sha256": "cdec61c3c641ad3f392d2c5d0dc4e88b9fda751b396e3b7e4ee69d29fd277a86",
+    "file": "x-everywhere.jpg",
+    "w": 2118,
+    "h": 1440,
+    "style": "impact",
+    "boxes": [
+      {
+        "x": 0.03,
+        "y": 0.02,
+        "w": 0.94,
+        "h": 0.2
+      },
+      {
+        "x": 0.03,
+        "y": 0.78,
+        "w": 0.94,
+        "h": 0.2
       }
     ]
   }

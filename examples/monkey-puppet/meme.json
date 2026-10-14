@@ -1,0 +1,7 @@
+{
+  "template": "monkey-puppet",
+  "panels": [
+    "When the PM asks who approved the PR",
+    ""
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "template": "bernie-asking",
+  "panels": [
+    "Code reviewers",
+    "for a PR description"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "template": "declare-bankruptcy",
+  "panels": [
+    "400 tickets of tech debt",
+    "I declare bankruptcy"
+  ]
+}

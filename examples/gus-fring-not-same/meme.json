@@ -1,0 +1,8 @@
+{
+  "template": "gus-fring-not-same",
+  "panels": [
+    "You write the test after the bug",
+    "I write the test that finds it",
+    "We are not the same"
+  ]
+}

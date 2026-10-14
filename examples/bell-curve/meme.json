@@ -1,0 +1,8 @@
+{
+  "template": "bell-curve",
+  "panels": [
+    "Use Postgres",
+    "You need Kafka, Mongo, Redis and a graph DB",
+    "Use Postgres"
+  ]
+}

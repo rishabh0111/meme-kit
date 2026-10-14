@@ -53,7 +53,9 @@ Promise.all([imgReady, fontsIn]).then(()=>{
     d.style.left=(b.x*W)+"px";  d.style.top=(b.y*H)+"px";
     d.style.width=(b.w*W)+"px"; d.style.height=(b.h*H)+"px";
     if(b.rot) d.style.transform=`rotate(${b.rot}deg)`;
+    /* impact uppercases; keepCase leaves the text as typed (Mocking SpongeBob needs its mixed case) */
     const sp=document.createElement("span"); sp.textContent=t; d.appendChild(sp);
+    if(b.keepCase||L.keepCase) sp.style.textTransform="none";
     stage.appendChild(d);
     /* shrink until the text fits its box in both axes */
     let lo=8, hi=Math.round(b.h*H*0.95), best=lo;

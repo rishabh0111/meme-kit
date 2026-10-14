@@ -1,0 +1,7 @@
+{
+  "template": "disaster-girl",
+  "panels": [
+    "Prod after a one-line config change",
+    "It was a small PR"
+  ]
+}

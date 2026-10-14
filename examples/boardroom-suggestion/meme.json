@@ -1,0 +1,10 @@
+{
+  "template": "boardroom-suggestion",
+  "panels": [
+    "How do we fix the slow API?",
+    "Add a cache",
+    "Add more pods",
+    "Fix the N+1 query"
+  ],
+  "uniform": false
+}

@@ -1,0 +1,7 @@
+{
+  "template": "scooby-doo-reveal",
+  "panels": [
+    "Serverless",
+    "Someone else's server"
+  ]
+}

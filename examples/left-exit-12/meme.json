@@ -1,0 +1,8 @@
+{
+  "template": "left-exit-12",
+  "panels": [
+    "Fix the bug",
+    "Rewrite it in Rust",
+    "Me"
+  ]
+}

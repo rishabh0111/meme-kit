@@ -1,0 +1,7 @@
+{
+  "template": "roll-safe",
+  "panels": [
+    "Can't have failing tests",
+    "if you don't write tests"
+  ]
+}

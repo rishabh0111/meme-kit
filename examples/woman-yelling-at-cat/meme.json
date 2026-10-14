@@ -1,0 +1,7 @@
+{
+  "template": "woman-yelling-at-cat",
+  "panels": [
+    "The test is flaky!",
+    "Your code has a race condition"
+  ]
+}

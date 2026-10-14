@@ -1,0 +1,6 @@
+{
+  "template": "scroll-of-truth",
+  "panels": [
+    "Most microservices should be a module"
+  ]
+}
