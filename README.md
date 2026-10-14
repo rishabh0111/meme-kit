@@ -90,28 +90,6 @@ but it makes every panel small, because they all share one size.
 
 ## Templates
 
-51 templates: the Office ones first, then the classics from imgflip's most
-used list.
-
-### The Office, and its neighbours
-
-| Template | Name | Panels, in order | Text style |
-|---|---|---|---|
-| `theyre-the-same-picture` | They're The Same Picture | left card; right card (Pam says they're the same) | dark |
-| `jim-whiteboard` | Jim Halpert Pointing to Whiteboard | the board Jim points at; the board again, Jim looking at the camera | dark |
-| `michael-no-god` | No God! No God Please No! | top; bottom | impact |
-| `declare-bankruptcy` | I Declare Bankruptcy | the situation (top); the declaration (bottom) | impact |
-| `dwight-false` | Dwight Schrute: False | the claim (top); the verdict (bottom) | impact |
-| `why-are-you-the-way` | Why Are You The Way That You Are | the thing Michael asks about (left side) | impact |
-| `everybody-stay-calm` | Everybody Stay Calm | what is happening (white band above) | dark |
-| `that-would-be-great` | That Would Be Great | "Yeah, if you could…" (top); "…that would be great" (bottom) | impact |
-| `too-afraid-to-ask` | Too Afraid To Ask (Andy) | what you don't know (top); "too afraid to ask" (bottom) | impact |
-
-The last two are close cousins: That Would Be Great is Office Space,
-Too Afraid To Ask is Parks and Recreation.
-
-### The classics
-
 | Template | Name | Panels, in order | Text style |
 |---|---|---|---|
 | `always-has-been` | Always Has Been | the realisation (left astronaut); "always has been" (right) | impact |
@@ -125,9 +103,12 @@ Too Afraid To Ask is Parks and Recreation.
 | `buff-doge-vs-cheems` | Buff Doge vs. Cheems | left label; left caption; right label; right caption | dark |
 | `change-my-mind` | Change My Mind | the opinion on the table sign | dark |
 | `clown-makeup` | Clown Applying Makeup | four steps, each worse than the last | dark |
+| `declare-bankruptcy` | I Declare Bankruptcy | the situation (top); the declaration (bottom) | impact |
 | `disaster-girl` | Disaster Girl | the fire (top); her line (bottom) | impact |
 | `drake` | Drake Hotline Bling | what he rejects; what he approves | dark |
+| `dwight-false` | Dwight Schrute: False | the claim (top); the verdict (bottom) | impact |
 | `epic-handshake` | Epic Handshake | left arm; right arm; what they agree on (the grip) | impact |
+| `everybody-stay-calm` | Everybody Stay Calm | what is happening (white band above) | dark |
 | `evil-kermit` | Evil Kermit | Kermit; hooded Kermit | impact |
 | `expanding-brain` | Expanding Brain | four ideas, from smallest brain to most glowing | impact |
 | `futurama-fry` | Futurama Fry | "Not sure if…" (top); "…or…" (bottom) | impact |
@@ -135,8 +116,10 @@ Too Afraid To Ask is Parks and Recreation.
 | `gus-fring-not-same` | Gus Fring We Are Not The Same | "You…"; "I…"; "We are not the same" | impact |
 | `hide-the-pain-harold` | Hide the Pain Harold | the good news (top); the pain (bottom) | impact |
 | `is-this-a-pigeon` | Is This A Pigeon | the person; the butterfly; the question | impact |
+| `jim-whiteboard` | Jim Halpert Pointing to Whiteboard | the board Jim points at; the board again, Jim looking at the camera | dark |
 | `left-exit-12` | Left Exit 12 Off Ramp | straight on; the exit; the car taking it | impact |
 | `leonardo-cheers` | Leonardo Dicaprio Cheers | top; bottom | impact |
+| `michael-no-god` | No God! No God Please No! | top; bottom | impact |
 | `mocking-spongebob` | Mocking Spongebob | the quote (top); the same quote, mocked (bottom, case kept) | impact |
 | `monkey-puppet` | Monkey Puppet | the situation (white band above); optional bottom caption | dark |
 | `one-does-not-simply` | One Does Not Simply | "One does not simply" (top); the hard thing (bottom) | impact |
@@ -148,12 +131,16 @@ Too Afraid To Ask is Parks and Recreation.
 | `spiderman-pointing` | spiderman pointing at spiderman | left Spider-Man; right Spider-Man | impact |
 | `spiderman-triple` | Spider Man Triple | left, middle and right Spider-Man | impact |
 | `surprised-pikachu` | Surprised Pikachu | three lines above: the action, the obvious result, the surprise | dark |
+| `that-would-be-great` | That Would Be Great | "Yeah, if you could…" (top); "…that would be great" (bottom) | impact |
+| `theyre-the-same-picture` | They're The Same Picture | left card; right card (Pam says they're the same) | dark |
 | `this-is-fine` | This Is Fine | the situation (top left); a caption along the bottom | impact |
+| `too-afraid-to-ask` | Too Afraid To Ask (Andy) | what you don't know (top); "too afraid to ask" (bottom) | impact |
 | `trade-offer` | Trade Offer | "i receive"; "you receive" | impact |
 | `tuxedo-pooh` | Tuxedo Winnie The Pooh | the plain way; the classy way | dark |
 | `two-buttons` | Two Buttons | left button; right button; the sweating person | dark |
 | `uno-draw-25` | UNO Draw 25 Cards | the card's demand; the player | dark |
 | `waiting-skeleton` | Waiting Skeleton | top; bottom | impact |
+| `why-are-you-the-way` | Why Are You The Way That You Are | the thing Michael asks about (left side) | impact |
 | `woman-yelling-at-cat` | Woman Yelling At Cat | the woman; the cat | impact |
 | `x-everywhere` | X, X Everywhere | "X" (top); "X everywhere" (bottom) | impact |
 
